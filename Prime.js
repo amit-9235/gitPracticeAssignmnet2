@@ -1,13 +1,19 @@
 count = 0;
-function(num,A){
-for(let i=0; i<=A; i++){
-if(num%i==0){
-count++}
+let N=9;
+for(let i=0; i<=N; i++){
+if(N%i==0){
+count++
+}
 }
 if(count==2){
-console.log("Prime)
+console.log("Prime);
 }
 else{
-console.log("Not Prime")
+<<<<<<< HEAD
+
+console.log("Not Prime);
+=======
+console.log("Not Prime)
+>>>>>>> 6bb8be5e0d54c4509643c372164aa475a53bb43d
 }
-}
+
