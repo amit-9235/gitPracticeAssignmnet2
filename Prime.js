@@ -9,7 +9,11 @@ if(count==2){
 console.log("Prime);
 }
 else{
+<<<<<<< HEAD
 
 console.log("Not Prime);
+=======
+console.log("Not Prime)
+>>>>>>> 6bb8be5e0d54c4509643c372164aa475a53bb43d
 }
 
